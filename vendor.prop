@@ -62,6 +62,9 @@ drm.service.enabled=true
 # FRP
 ro.frp.pst=/dev/block/bootdevice/by-name/config
 
+# FS-verity
+ro.apk_verity.mode=2
+
 #Gboard
 ro.com.google.ime.kb_pad_port_b=1
 
