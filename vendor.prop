@@ -107,5 +107,8 @@ persist.vendor.radio.start_ota_daemon=1
 persist.vendor.radio.sw_mbn_update=0
 vendor.rild.libpath=/vendor/lib64/libril-qc-qmi-1.so
 
+#SurfaceFlinger
+ro.surface_flinger.enable_layer_caching=
+
 # Zygote
 zygote.critical_window.minute=10
