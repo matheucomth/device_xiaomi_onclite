@@ -49,7 +49,8 @@ persist.vendor.camera.perflock.enable=0
 ro.soc.manufacturer=Qualcomm
 ro.soc.model=SDM450
 
-# Display post-processing
+# Display
+ro.hwui.render_ahead=20
 ro.vendor.display.cabl=0
 ro.vendor.display.sensortype=2
 
